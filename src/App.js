@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         HELLO REACT Test Project
+        hello
       </header>
     </div>
   );
