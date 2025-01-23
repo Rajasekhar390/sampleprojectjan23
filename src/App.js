@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        HELLO REACT hello
+        HELLO REACT Test Project
       </header>
     </div>
   );
